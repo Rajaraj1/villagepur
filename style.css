@@ -5,6 +5,30 @@
   font-size: large;
   font-weight: bold;
 } */
+/* 
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+
+* {
+  font-family: "Caveat", cursive;
+  font-size: 30px;
+  font-weight: 500;
+} */
+
+.villagerColor {
+  color: #a333f8;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
+
+.customAdjustHome {
+  margin-left: 500px;
+}
+
+.customSearch {
+  position: fixed;
+  right: 8px;
+}
 
 .deneb_footer .widget_wrapper {
   background-repeat: no-repeat;
